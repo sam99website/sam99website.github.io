@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+Allow: /
+
+Sitemap: https://sam99website.github.io/sitemap.xml
